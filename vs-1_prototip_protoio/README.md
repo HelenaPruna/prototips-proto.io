@@ -9,8 +9,7 @@ Clicar l'arxiu dintre d'aquesta carpeta amb nom `fullscreen.html`. En cas de no 
 Aquest prototip ha estat implementat amb un ordre molt concret d'accions, per evitar errors s'ha de seguir com està explicat a continuació:
 1. Inicia sessió: Posar nom (i cognom) i clica el botó `iniciar sessió`. 
 2. Observar quines són les sol·licituds actuals. 
-3. Mirar la informació del taller `Costura`. Haurà d'afegir una persona a la llista d'espera. Abans de confirmar els canvis, haurà d'eliminar el participant `Àlex Martin`.
-4. En aquest taller veurà més informació d'aquest taller, com la llista de participants està completa, l'usuari haurà d'afegir un nou participant a la llista d'espera. Confirmem els canvis.
+3. Mirar la informació del taller `Costura`. Haurà d'afegir una persona a la llista d'espera. Abans de confirmar els canvis, haurà d'eliminar el participant `Àlex Martin`. Confirmem els canvis.
 5. L'usuari ja no vol el taller, i per tant l'eliminarà.
 6. Afegir un taller amb els següents requisits:
    - Nom qualsevol
