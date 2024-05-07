@@ -26,4 +26,4 @@ Aquest prototip ha estat implementat amb un ordre molt concret d'accions, per ev
 9. L'usuari haurà de comprovar que la nova sol·licitud és present a la pestanya de sol·licituds. 
 10. Afegir la persona `Paula Romero` al calendari de rentadora en l'horari de dilluns a les 9:00. 
 11. Mirar la disponibilitat de sales pel dia 26/04/2024 a l'horari 8:30-10:30 per a 20 persones. 
-12. Reservar una sala pel dia 26/04/2024 a l'horari 8:30-10:30 per a 20 persones.
+12. Reservar una sala pel dia 26/04/2024 a l'horari 8:30-10:30 per a 20 persones. Escull la `sala 3`.  
